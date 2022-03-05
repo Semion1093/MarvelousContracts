@@ -2,7 +2,6 @@
 {
     public enum Currency
     {
-        ALL = 0,
         AFN = 1,
         ARS = 2,
         AWG = 3,
