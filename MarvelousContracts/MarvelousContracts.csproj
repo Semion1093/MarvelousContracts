@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Students</Authors>
+    <Company>DevEdu</Company>
+    <Description>Contrats for microservice progect</Description>
+    <PackageIcon>photo_2022-01-12_17-26-25.jpg</PackageIcon>
+    <Version>$(VersionPrefix)</Version>
+    <PackageId>$("MarvelousContracts")</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
