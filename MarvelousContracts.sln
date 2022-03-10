@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelousContracts", "MarvelousContracts\MarvelousContracts.csproj", "{3FD26484-DD21-4394-B4CE-2717FCF703A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvelous.Contracts", "MarvelousContracts\Marvelous.Contracts.csproj", "{3FD26484-DD21-4394-B4CE-2717FCF703A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
