@@ -1,4 +1,4 @@
-﻿namespace Currency
+﻿namespace MarvelousContracts
 {
     public enum Currency
     {
