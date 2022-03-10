@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarvelousContracts", "CurrencyEnum\MarvelousContracts.csproj", "{965281CC-03D5-4921-A5FA-E32E7F0F1CDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelousContracts", "MarvelousContracts\MarvelousContracts.csproj", "{3FD26484-DD21-4394-B4CE-2717FCF703A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{965281CC-03D5-4921-A5FA-E32E7F0F1CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{965281CC-03D5-4921-A5FA-E32E7F0F1CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{965281CC-03D5-4921-A5FA-E32E7F0F1CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{965281CC-03D5-4921-A5FA-E32E7F0F1CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD26484-DD21-4394-B4CE-2717FCF703A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD26484-DD21-4394-B4CE-2717FCF703A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD26484-DD21-4394-B4CE-2717FCF703A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD26484-DD21-4394-B4CE-2717FCF703A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
