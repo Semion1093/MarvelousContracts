@@ -1,4 +1,4 @@
-﻿namespace CurrencyEnum
+﻿namespace Currency
 {
     public enum Currency
     {
