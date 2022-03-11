@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -7,14 +7,14 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Students</Authors>
     <Company>DevEdu</Company>
-    <Description>Contrats for microservice progect</Description>
+    <Description>Contrats for microservice project</Description>
     <PackageIcon>photo_2022-01-12_17-26-25.jpg</PackageIcon>
-    <Version>$(VersionPrefix)</Version>
+    <Version>1.0.1</Version>
     <PackageId>$("MarvelousContracts")</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\photo_2022-01-12_17-26-25.jpg" Link="photo_2022-01-12_17-26-25.jpg">
+    <None Update="photo_2022-01-12_17-26-25.jpg" Link="photo_2022-01-12_17-26-25.jpg">
       <PackagePath>\</PackagePath>
       <Pack>True</Pack>
     </None>

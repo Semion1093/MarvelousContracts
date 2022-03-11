@@ -4,6 +4,7 @@
     {
         Deposit = 1,
         Withdraw,
-        Transfer
+        Transfer,
+        Service
     }
 }
