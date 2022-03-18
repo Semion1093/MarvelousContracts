@@ -5,6 +5,6 @@
         Deposit = 1,
         Withdraw,
         Transfer,
-        Service
+        ServicePayment
     }
 }

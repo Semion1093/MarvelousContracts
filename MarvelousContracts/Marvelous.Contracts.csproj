@@ -6,11 +6,13 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Authors>Students</Authors>
-    <Company>DevEdu</Company>
-    <Description>Contrats for microservice project</Description>
+    <Company>DevEducation</Company>
+    <Description>Contracts for Marvelous microservice solution</Description>
     <PackageIcon>photo_2022-01-12_17-26-25.jpg</PackageIcon>
-    <Version>1.0.1</Version>
+    <Version>1.1.1</Version>
     <PackageId>$("MarvelousContracts")</PackageId>
+    <RepositoryUrl>https://github.com/Semion1093/MarvelousContracts</RepositoryUrl>
+    <PackageReleaseNotes>Change mistake in description, add a link to the repository</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
