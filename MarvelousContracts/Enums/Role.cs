@@ -1,4 +1,5 @@
-﻿namespace Marvelous.Contracts
+﻿namespace Marvelous.Contracts.Enums
+{
 {
     public enum Role
     {

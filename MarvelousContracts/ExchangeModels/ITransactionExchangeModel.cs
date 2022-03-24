@@ -1,6 +1,8 @@
-﻿namespace Marvelous.Contracts.ExchangeModels
+﻿using Marvelous.Contracts.Enums;
+
+namespace Marvelous.Contracts.ExchangeModels
 {
-    public class TransactionExchangeModel
+    public interface ITransactionExchangeModel
     {
         public long Id { get; set; }
         public DateTime Date { get; set; }

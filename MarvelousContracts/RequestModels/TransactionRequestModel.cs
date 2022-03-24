@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Marvelous.Contracts.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace Marvelous.Contracts.RequestModels
 {
