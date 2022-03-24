@@ -9,7 +9,7 @@
     <Company>DevEducation</Company>
     <Description>Contracts for Marvelous microservice solution</Description>
     <PackageIcon>photo_2022-01-12_17-26-25.jpg</PackageIcon>
-    <Version>1.1.7</Version>
+    <Version>1.1.8</Version>
     <PackageId>$("MarvelousContracts")</PackageId>
     <RepositoryUrl>https://github.com/Semion1093/MarvelousContracts</RepositoryUrl>
     <PackageReleaseNotes>Change mistake in description, add a link to the repository</PackageReleaseNotes>

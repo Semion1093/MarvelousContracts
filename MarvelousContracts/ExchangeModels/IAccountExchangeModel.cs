@@ -2,7 +2,7 @@
 
 namespace Marvelous.Contracts.ExchangeModels
 {
-    internal interface IAccountExchangeModel
+    public interface IAccountExchangeModel
     {
         public int Id { get; set; }
         public string Name { get; set; }
