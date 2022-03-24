@@ -2,7 +2,7 @@
 
 namespace Marvelous.Contracts.ExchangeModels
 {
-    public interface ILeadExchangeModel
+    public interface ILeadShortExchangeModel
     {
         public int Id { get; set; }
         public Role Role { get; set; }
