@@ -1,6 +1,6 @@
 ﻿namespace Marvelous.Contracts.ExchangeModels
 {
-    public interface ICurrencyRatesExchangeModel
+    public class CurrencyRatesExchangeModel
     {
         public Dictionary<string, decimal> Rates { get; set; }
     }

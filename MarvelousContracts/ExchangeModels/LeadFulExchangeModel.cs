@@ -2,7 +2,7 @@
 
 namespace Marvelous.Contracts.ExchangeModels
 {
-    public interface ILeadFullExchangeModel
+    public class ILeadFullExchangeModel
     {
         public int Id { get; set; }
         public string Name { get; set; }

@@ -2,7 +2,7 @@
 
 namespace Marvelous.Contracts.ExchangeModels
 {
-    public interface ITransactionExchangeModel
+    public class TransactionExchangeModel
     {
         public long Id { get; set; }
         public DateTime Date { get; set; }
