@@ -1,6 +1,6 @@
 ﻿namespace Marvelous.Contracts.Enums
 {
-    public enum Role
+    public enum Role : byte
     {
         Admin = 1,
         Vip,
