@@ -2,14 +2,14 @@
 {
     public enum Microservice
     {
-        MarvelousAccountCheckingByChuZhig = 1,
-        MarvelousReportMicroService,
+        MarvelousAccountChecking = 1,
+        MarvelousReporting,
         MarvelousConfigs,
         MarvelousService,
-        TransactionStore,
-        CRM,
-        workerServiceEmail,
-        RatesApi,
-        Auth
+        MarvelousTransactionStore,
+        MarvelousCrm,
+        MarvelousEmailSendler,
+        MarvelousRatesApi,
+        MarvelousAuth
     }
 }
