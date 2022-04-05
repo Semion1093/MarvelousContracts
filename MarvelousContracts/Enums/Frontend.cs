@@ -4,6 +4,7 @@
     {
         MarvelousFrontendCrm = 1,
         MarvelousFrontendService,
-        MarvelousFrontendReporting
+        MarvelousFrontendReporting,
+        Undefined = 100
     }
 }

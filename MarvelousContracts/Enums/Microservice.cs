@@ -10,6 +10,7 @@
         MarvelousCrm,
         MarvelousEmailSendler,
         MarvelousRatesApi,
-        MarvelousAuth
+        MarvelousAuth,
+        Undefined = 100
     }
 }
