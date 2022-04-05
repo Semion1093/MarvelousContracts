@@ -5,12 +5,16 @@
         MarvelousAccountChecking = 1,
         MarvelousReporting,
         MarvelousConfigs,
-        MarvelousService,
+        MarvelousResource,
         MarvelousTransactionStore,
         MarvelousCrm,
         MarvelousEmailSendler,
         MarvelousRatesApi,
         MarvelousAuth,
-        Undefined = 100
+        MarvelousSmsSendler,
+        Undefined = 100,
+        MarvelousFrontendCrm,
+        MarvelousFrontendService,
+        MarvelousFrontendReporting
     }
 }

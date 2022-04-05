@@ -1,4 +1,4 @@
-﻿namespace Marvelous.Contracts
+﻿namespace Marvelous.Contracts.Urls
 {
     public class TransactionUrls
     {

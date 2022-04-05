@@ -1,8 +1,9 @@
-﻿namespace Marvelous.Contracts.ExchangeModels
+﻿namespace Marvelous.Contracts.Configurations
 {
-    public class ConfigExchangeModel
+    public class AccountCheckingCfg
     {
         public string Key { get; set; }
         public string Value { get; set; }
+
     }
 }

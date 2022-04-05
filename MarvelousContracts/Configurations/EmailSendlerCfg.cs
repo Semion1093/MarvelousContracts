@@ -1,6 +1,6 @@
-﻿namespace Marvelous.Contracts.ExchangeModels
+﻿namespace Marvelous.Contracts.Configurations
 {
-    public class ConfigExchangeModel
+    public class EmailSendlerCfg
     {
         public string Key { get; set; }
         public string Value { get; set; }
