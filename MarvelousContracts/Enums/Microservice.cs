@@ -12,9 +12,9 @@
         MarvelousRatesApi,
         MarvelousAuth,
         MarvelousSmsSendler,
-        Undefined = 100,
+        MarvelousFrontendUndefined = 100,
         MarvelousFrontendCrm,
-        MarvelousFrontendService,
+        MarvelousFrontendResource,
         MarvelousFrontendReporting
     }
 }
