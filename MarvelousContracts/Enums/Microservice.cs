@@ -8,13 +8,14 @@
         MarvelousResource,
         MarvelousTransactionStore,
         MarvelousCrm,
-        MarvelousEmailSendler,
+        MarvelousEmailSender,
         MarvelousRatesApi,
         MarvelousAuth,
-        MarvelousSmsSendler,
+        MarvelousSmsSender,
         MarvelousFrontendUndefined = 100,
         MarvelousFrontendCrm,
         MarvelousFrontendResource,
-        MarvelousFrontendReporting
+        MarvelousFrontendReporting,
+        MarvelousFrontendConfigs
     }
 }

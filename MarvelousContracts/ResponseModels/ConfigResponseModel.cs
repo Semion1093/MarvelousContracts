@@ -1,6 +1,6 @@
-﻿namespace Marvelous.Contracts.RequestModels
+﻿namespace Marvelous.Contracts.ResponseModels
 {
-    public class ConfigExchangeModel
+    public class ConfigResponseModel
     {
         public int Id { get; set; }
         public string Key { get; set; }
